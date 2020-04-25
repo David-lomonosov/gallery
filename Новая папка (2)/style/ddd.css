@@ -1,0 +1,117 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1 { font-family: 'Cormorant Garamond', serif;
+color: rgb(0, 0, 0);
+text-align: center;
+width: 100%;
+}
+
+
+p {text-align: center;
+    font-size: 30px;
+font-weight: 30;
+font-family: fantasy;
+width: 100%;
+font-family: 'Cormorant Garamond', serif;
+}
+.main {
+    background-color: rgb(255, 255, 255);
+width: 70%;
+margin:auto;
+padding: 50px;
+opacity: 0,4px;
+display: flex;
+flex-wrap:wrap;
+justify-content: center;
+box-shadow:0px 0px 12px 11px rgb(0, 0, 0);
+}
+body{
+    background-color: darkgrey;
+
+}
+.photo {
+width: 400px;
+background-color: darkmagenta;
+height: 300px;
+margin: 10px
+
+}
+.img1 {
+background-image: url(../img/images1.jpg);
+background-size: cover;
+color: lightcyan;
+
+
+
+
+
+
+
+
+}
+
+.img2 {
+    background-image: url(../img/images2.jpg);
+    background-size: cover;
+    background-position: center;
+    color: indigo;
+}
+.img3 {
+    background-image: url(../img/images3.jpg);
+background-size: cover;
+background-position: center;
+color: gold;
+}
+.img4 {
+    background-image: url(../img/images4.jpg);
+    background-size: cover;
+    color: darkgreen;
+    age: url(../img/images.jpg);
+background-size: cover;
+background-position: center;
+color: cyan;
+}
+.img5 {
+    background-image: url(../img/images5.jpg);
+    background-size: cover;
+    background-position: center;
+    color: crimson;
+}
+.img6{
+    background-image: url(../img/images6.jpg);
+background-size: cover;
+background-position: center;
+color: darkkhaki;
+}
+.img7 {
+    background-image: url(../img/images7.jpg);
+background-size: cover;
+background-position: center;
+color: darkseagreen;
+}
+.img8 {
+    background-image: url(../img/images8.jpg);
+background-size: cover;
+background-position: center;
+color: dodgerblue;
+}
+.img9 {
+    background-image: url(../img/images9.jpg);
+background-size: cover;
+background-position: center;
+color: fuchsia;
+}
+.photo:hover {
+    box-shadow: 60px;
+border: 30px solid
+}
+.img9:hover{
+box-shadow: 60px;
+}
+.img2:hove{
+
+    box-shadow: 60px;
+    border: 30px solid
+}
